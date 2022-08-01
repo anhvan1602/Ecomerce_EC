@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\frontend",
+    "\\public\\frontend\\css",
+    "\\public\\frontend\\images",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\frontend",
+    "\\resources\\views\\frontend\\home",
+    "\\resources\\views\\frontend\\home\\components"
+  ],
+  "SelectedNode": "\\public\\frontend\\css\\style.css",
+  "PreviewInSolutionExplorer": false
+}
